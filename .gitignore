@@ -1,8 +1,5 @@
 # Build folder
 build/
 
-# PNG files
-*.png
-
 # VSCode settings
 .vscode/
